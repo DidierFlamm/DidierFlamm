@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Didier Flamm
-- 👀 I’m passionate about Data Science
-- 🌱 Currently diving deeper into Machine Learning
-- 💞️ Looking to collaborate on exciting data projects
+- 👋 Hi, I’m Didier
+- 📊 I’m passionate about Data Science
+- 🌊 Currently diving deeper into Machine Learning
+- 🤝 Open to collaborations on data & AI projects
 - 📫 You can reach me at did_padman@hotmail.com
-- 🤝 Join me on [LinkedIn](https://www.linkedin.com/in/didier-flamm), [Kaggle](https://www.kaggle.com/passiouk006) or [CodinGame](https://www.codingame.com/profile/0680c8d464293b73480da58f100d27b09375066) !
+- 👥 Join me on [LinkedIn](https://www.linkedin.com/in/didier-flamm), [Kaggle](https://www.kaggle.com/passiouk006) or [CodinGame](https://www.codingame.com/profile/0680c8d464293b73480da58f100d27b09375066) !
