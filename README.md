@@ -2,5 +2,5 @@
 - 📊 I’m passionate about Data Science
 - 🌊 Currently diving deeper into DL models
 - 🤝 Open to collaborations on data & AI projects
-- 📫 You can reach me at did_padman@hotmail.com
+- ✉️ You can reach me at did_padman@hotmail.com
 - 👥 Join me on [LinkedIn](https://www.linkedin.com/in/didier-flamm), [Streamlit Cloud](https://share.streamlit.io/user/didierflamm), [Kaggle](https://www.kaggle.com/passiouk006) and [CodinGame](https://www.codingame.com/profile/0680c8d464293b73480da58f100d27b09375066) !
